@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  background-color: #001f3f;
+}
+
+.fondo {
+  background: url('imagenes/panda-luna.png') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: 10px;
+}
+
+.dedicatoria {
+  text-align: right;
+  font-style: italic;
+  margin-right: 15px;
+  font-size: 1em;
+}
+
+.introduccion {
+  background-color: rgba(0, 0, 50, 0.6);
+  border-radius: 15px;
+  padding: 20px;
+  margin: 30px auto;
+  max-width: 800px;
+  font-size: 1.2em;
+}
+
+footer .mensaje-fijo {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 15px;
+  font-style: italic;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 0 auto 20px;
+}
