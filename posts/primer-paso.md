@@ -2,8 +2,9 @@
 title: "Primer Paso"
 date: "2025-04-07"
 category: "Textos"
-image: ""
 ---
+
+![La luna](/images/la-luna.jpg)
 
 Hoy quiero hablar y que se extienda de ser necesario; hay algo que decir esta noche, con la luna de testigo, que firme el acta, de la palabra que diré. A veces no se puede entender, como es que, existe la belleza humana, pero no puede ser tocada, solo admirada de lejos. Y eso pasa. Ahora, tengo que decir que, admiro y aprecio a esta persona, a simple vista, exteriormente, rescato muchas cualidades, pero sobre todo, la mirada, aquella mirada que conecta profundamente con el interior. Puedo decir, que aquella mirada es lo más bello de esta persona, y que si yo pudiera perderme y enamorarme, escogiendo una característica, sería de ello, de la mirada de aquellos ojos.
 
@@ -17,7 +18,4 @@ Porque déjame decirte que si yo tuviera la oportunidad de llegar a estar contig
 
 Eres ahora muy importante para mi sentido. De decir que el rumbo que yo le he dado a mi vida en proyectos sí igual. Pero en cuanto al amor y al conocer has entrado a tallar tú. Y cueste lo que me cueste, lo sigo intentando y lo intentaré. No me quita el sueño. Y yo creo que si vale la pena luchar por ti, las cosas no van a ser fáciles. Por ende es importante seguir perenne, seguir intentando. Y te podría decir que esta es una declaración de amor e interés oficial. 
 
-Se puede decir tú eres parte de algo grandioso. Y yo te apoyaré en todo. Tendrás mi mente y mi corazón a tu disposición. Espero leas todo esto hasta este punto. Porque aquí tengo que decir que lucharé por ti y por cada característica importante que tengas y que quiero conocerte al fondo, a mil, cada parte, cada fragmento de todo tu ser y enamorarme de cada cosa tuya. Y ser una persona obsesionada contigo que te acompañe toda la vida y que se ensañe con tu corazón y tu mente. Y pasar mis años más bonitos. Eso es lo que tengo que decir por el momento. 
-
-![La luna](public/images/la-luna.jpg)
-
+Se puede decir tú eres parte de algo grandioso. Y yo te apoyaré en todo. Tendrás mi mente y mi corazón a tu disposición. Espero leas todo esto hasta este punto. Porque aquí tengo que decir que lucharé por ti y por cada característica importante que tengas y que quiero conocerte al fondo, a mil, cada parte, cada fragmento de todo tu ser y enamorarme de cada cosa tuya. Y ser una persona obsesionada contigo que te acompañe toda la vida y que se ensañe con tu corazón y tu mente. Y pasar mis años más bonitos. Eso es lo que tengo que decir por el momento.
