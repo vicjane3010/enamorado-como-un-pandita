@@ -4,8 +4,6 @@ date: "2025-04-07"
 category: "Textos"
 ---
 
-![La luna](public/laluna.jpg.jpg)
-
 Hoy quiero hablar y que se extienda de ser necesario; hay algo que decir esta noche, con la luna de testigo, que firme el acta, de la palabra que diré. A veces no se puede entender, como es que, existe la belleza humana, pero no puede ser tocada, solo admirada de lejos. Y eso pasa. Ahora, tengo que decir que, admiro y aprecio a esta persona, a simple vista, exteriormente, rescato muchas cualidades, pero sobre todo, la mirada, aquella mirada que conecta profundamente con el interior. Puedo decir, que aquella mirada es lo más bello de esta persona, y que si yo pudiera perderme y enamorarme, escogiendo una característica, sería de ello, de la mirada de aquellos ojos.
 
 Quiero escribir a esta persona con las palabras más bonitas que puedo encontrar. Quiero que este texto de verdad valga la pena. Sin importar si sea extenso o corto, quiero que contenga la calidad en cada una de las expresiones que emane. Lo estoy escribiendo con todo mi corazón. De verdad, me importa esta persona, y por eso quiero dedicarle cada palabra de aquí. Y que ella se dé cuenta que se merece cada palabra de lo que digo, y que se dé cuenta que ella es capaz de despertar un sentimiento a esta magnitud. 
