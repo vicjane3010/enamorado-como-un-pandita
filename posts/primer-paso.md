@@ -2,7 +2,7 @@
 title: "Primer Paso"
 date: "2025-04-07"
 category: "Textos"
-image: "/images/la-luna.jpg"
+image: ""
 ---
 
 Hoy quiero hablar y que se extienda de ser necesario; hay algo que decir esta noche, con la luna de testigo, que firme el acta, de la palabra que diré. A veces no se puede entender, como es que, existe la belleza humana, pero no puede ser tocada, solo admirada de lejos. Y eso pasa. Ahora, tengo que decir que, admiro y aprecio a esta persona, a simple vista, exteriormente, rescato muchas cualidades, pero sobre todo, la mirada, aquella mirada que conecta profundamente con el interior. Puedo decir, que aquella mirada es lo más bello de esta persona, y que si yo pudiera perderme y enamorarme, escogiendo una característica, sería de ello, de la mirada de aquellos ojos.
