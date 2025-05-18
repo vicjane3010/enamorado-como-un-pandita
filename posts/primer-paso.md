@@ -19,4 +19,4 @@ Eres ahora muy importante para mi sentido. De decir que el rumbo que yo le he da
 
 Se puede decir tú eres parte de algo grandioso. Y yo te apoyaré en todo. Tendrás mi mente y mi corazón a tu disposición. Espero leas todo esto hasta este punto. Porque aquí tengo que decir que lucharé por ti y por cada característica importante que tengas y que quiero conocerte al fondo, a mil, cada parte, cada fragmento de todo tu ser y enamorarme de cada cosa tuya. Y ser una persona obsesionada contigo que te acompañe toda la vida y que se ensañe con tu corazón y tu mente. Y pasar mis años más bonitos. Eso es lo que tengo que decir por el momento. 
 
-![La luna](public/images/la-luna.jpg)
+![La luna](/images/la-luna.jpg)
