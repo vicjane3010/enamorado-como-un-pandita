@@ -18,4 +18,5 @@ Porque déjame decirte que si yo tuviera la oportunidad de llegar a estar contig
 Eres ahora muy importante para mi sentido. De decir que el rumbo que yo le he dado a mi vida en proyectos sí igual. Pero en cuanto al amor y al conocer has entrado a tallar tú. Y cueste lo que me cueste, lo sigo intentando y lo intentaré. No me quita el sueño. Y yo creo que si vale la pena luchar por ti, las cosas no van a ser fáciles. Por ende es importante seguir perenne, seguir intentando. Y te podría decir que esta es una declaración de amor e interés oficial. 
 
 Se puede decir tú eres parte de algo grandioso. Y yo te apoyaré en todo. Tendrás mi mente y mi corazón a tu disposición. Espero leas todo esto hasta este punto. Porque aquí tengo que decir que lucharé por ti y por cada característica importante que tengas y que quiero conocerte al fondo, a mil, cada parte, cada fragmento de todo tu ser y enamorarme de cada cosa tuya. Y ser una persona obsesionada contigo que te acompañe toda la vida y que se ensañe con tu corazón y tu mente. Y pasar mis años más bonitos. Eso es lo que tengo que decir por el momento.
-"/images/la-luna.jpg"
+
+![La luna](/images/la-luna.jpg)
